@@ -1,7 +1,21 @@
 # gobyexample
 Go By Example
 
-
+* [time](time/time.go)
+* [epoch](epoch/epoch.go)
+* [time-formatting-parsing](time-formatting-parsing/time-formatting-parsing.go)
+* [rand](rand/rand.go)
+* [number-parsing](number-parsing/number-parsing.go)
+* [url-parsing](url-parsing/url-parsing.go)
+* [sha256-hashes](sha256-hashes/sha256-hashes.go)
+* [base64-encoding](base64-encoding/base64-encoding.go)
+* [reading-files](reading-files/reading-files.go)
+* [writing-files](writing-files/writing-files.go)
+* [line-filters](line-filters/line-filters.go)
+* [file-paths](file-paths/file-paths.go)
+* [directories](directories/directories.go)
+* [temporary-files-and-directories](temporary-files-and-directories/temporary-files-and-directories.go)
+* [embed-directive](embed-directive/embed-directive.go)
 * [testing-and-benchmarking](testing-and-benchmarking/testing-and-benchmarking_test.go)
 * [command-line-argumemnts](command-line-arguments/command-line-arguments.go)
 * [command-line-flags](command-line-flags/command-line-flags.go)
