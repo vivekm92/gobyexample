@@ -1,6 +1,9 @@
 # gobyexample
 Go By Example
 
+* [hello-world](hello-world/hello-world.go)
+* [values](values/values.go)
+
 * [time](time/time.go)
 * [epoch](epoch/epoch.go)
 * [time-formatting-parsing](time-formatting-parsing/time-formatting-parsing.go)
