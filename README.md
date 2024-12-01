@@ -3,6 +3,13 @@ Go By Example
 
 * [hello-world](hello-world/hello-world.go)
 * [values](values/values.go)
+* [variables](variables/variables.go)
+* [contansts](constants/constants.go)
+* [for](for/for.go)
+* [if-else](if-else/if-else.go)
+* [switch](switch/switch.go)
+* [arrays](arrays/arrays.go)
+* [slices](slices/slices.go)
 
 * [time](time/time.go)
 * [epoch](epoch/epoch.go)
