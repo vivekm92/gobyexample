@@ -10,6 +10,13 @@ Go By Example
 * [switch](switch/switch.go)
 * [arrays](arrays/arrays.go)
 * [slices](slices/slices.go)
+* [maps](maps/maps.go)
+* [functions](functions/functions.go)
+* [multiple-return-values](multiple-return-values/multiple-return-values.go)
+* [variadic-functions](variadic-functions/variadic-functions.go)
+* [closures](closures/closures.go)
+* [recursion](recursion/recursion.go)
+* [range-over-built-in-types](range-over-built-in-types/range-over-built-in-types.go)
 
 * [time](time/time.go)
 * [epoch](epoch/epoch.go)
