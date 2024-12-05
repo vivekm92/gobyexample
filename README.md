@@ -17,6 +17,11 @@ Go By Example
 * [closures](closures/closures.go)
 * [recursion](recursion/recursion.go)
 * [range-over-built-in-types](range-over-built-in-types/range-over-built-in-types.go)
+* [pointers](pointers/pointers.go)
+* [strings-and-runes](strings-and-runes/strings-and-runes.go)
+* [structs](structs/structs.go)
+* [methods](methods/methods.go)
+* [interfaces](interfaces/interfaces.go)
 
 * [time](time/time.go)
 * [epoch](epoch/epoch.go)
